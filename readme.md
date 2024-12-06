@@ -12,9 +12,9 @@ Este es un proyecto simple que replica el diseño de la pantalla de inicio de Ne
 - CSS (incluyendo Flexbox y Media Queries)
 
 ## 📂 Estructura del proyecto
-├── index.html        # Archivo principal del proyecto
-├── styles.css        # Archivo de estilos
-└── README.md         # Información del proyecto
+- index.html        # Archivo principal del proyecto
+- styles.css        # Archivo de estilos
+- README.md         # Información del proyecto
 
 ## 📖 Aprendizajes clave
 - Uso de Flexbox para alinear elementos.
@@ -24,4 +24,5 @@ Este es un proyecto simple que replica el diseño de la pantalla de inicio de Ne
 
 ## 💡 Autor
 **Elizabeth Mendoza García**
+
 Estudiante de Curso Frontend impartido por DEVF
