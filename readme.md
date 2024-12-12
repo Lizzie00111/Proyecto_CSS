@@ -6,6 +6,7 @@ Este es un proyecto simple que replica el diseño de la pantalla de inicio de Ne
 - Hero section: Un encabezado principal con texto y botón, sobre una imagen de fondo oscurecida.
 - Footer: Una barra inferior con derechos reservados.
 - Diseño responsive: Adaptado para diferentes tamaños de pantalla con media queries.
+- Adicional se agrego un pequeño audio como prueba.
 
 ## 🛠️ Tecnologías utilizadas
 - HTML5
@@ -14,13 +15,15 @@ Este es un proyecto simple que replica el diseño de la pantalla de inicio de Ne
 ## 📂 Estructura del proyecto
 - index.html        # Archivo principal del proyecto
 - styles.css        # Archivo de estilos
+- scrpit.js         # Archivo que contiene la función para almacenar el menú de nevegación  en un contenedor hambrguesa para la vista de dispositivo móvil. 
 - README.md         # Información del proyecto
+
 
 ## 📖 Aprendizajes clave
 - Uso de Flexbox para alinear elementos.
 - Creación de una barra de navegación fija con position.
 - Aplicación de z-index para manejar capas de elementos.
-- Implementación de media queries para un diseño responsive.
+- Implementación de media queries para un diseño responsivo.
 
 ## 💡 Autor
 **Elizabeth Mendoza García**
