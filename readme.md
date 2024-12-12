@@ -15,7 +15,7 @@ Este es un proyecto simple que replica el diseño de la pantalla de inicio de Ne
 ## 📂 Estructura del proyecto
 - index.html        # Archivo principal del proyecto
 - styles.css        # Archivo de estilos
-- scrpit.js         # Archivo que contiene la función para almacenar el menú de nevegación  en un contenedor hambrguesa para la vista de dispositivo móvil. 
+- scrpit.js         # Archivo que contiene la función para almacenar el menú de navegación  en un contenedor hambrguesa para la vista de dispositivo móvil. 
 - README.md         # Información del proyecto
 
 
