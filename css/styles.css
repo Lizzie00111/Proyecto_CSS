@@ -11,10 +11,10 @@ body {
     background-color: #000;
 }
 
-/* Contenedor Flex */
-.flex-container {
-    display: flex;
-    justify-content: space-between;
+/* Navbar */
+.navbar{
+    display: flex;/* Organiza el contenido de manera horizontal */
+    justify-content: space-between; /*permite que el texto y el botón estén separados*/
     align-items: center;
     padding: 30px 20px;
     background: rgba(0, 0, 0, 0.8);
