@@ -70,7 +70,7 @@ body {
 /* Hero Section */
 .hero {
     position: relative;
-    height: 100vh;
+    height: 94vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -133,7 +133,7 @@ body {
     }
 
     .nav-links {
-        display: none;
+        display:none;
     }
 
     .user-actions .btn-login {
@@ -178,11 +178,22 @@ body {
     }
 }
 
+/*Reproductor de Audio */
+audio {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    z-index: 10; /* Asegura que esté encima de otros elementos */
+}
+
+
 /* Footer */
 .footer {
     background: rgba(0, 0, 0, 0.8);
     text-align: center;
-    padding: 15px 20px;
+    padding: 1em 0;
     position: relative;
     z-index: 5;
     font-family: "Lexend Deca", sans-serif;
