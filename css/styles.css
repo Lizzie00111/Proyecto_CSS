@@ -50,7 +50,7 @@ body {
 }
 
 .nav-links a:hover {
-    color: red;
+    color: red; /*El color cambia a rojo al pasar el mouse*/
 }
 
 .user-actions .btn-login {
@@ -63,7 +63,7 @@ body {
 }
 
 .user-actions .btn-login:hover {
-    background: white;
+    background: white; /*El color cambia a blanco al pasar el mouse */
     color: black;
 }
 
@@ -118,7 +118,7 @@ body {
 }
 
 .btn-primary:hover {
-    background: darkred;
+    background: darkred; /* El color cambia a rojo al pasar el mouse*/
 }
 
 
