@@ -18,9 +18,10 @@
 
 </head>
 <body>
-    <!-- Contenedor Flex -->
-    <nav class="flex-container">
+    <!-- Navbar -->
+    <nav class="navbar">
         <div class="logo">Koreanflix</div>
+        <div class="menu-icon" onclick="toggleMenu()">☰</div>
         <ul class="nav-links">
             <li><a href="index.html">Inicio</a></li>
             <li><a href="#">Series</a></li>
@@ -50,7 +51,7 @@
 
     <!--Audio-->
     <audio controls>
-        <source src="Audio/future-start-up.mp3" type="audio/mpeg">
+        <source src="./Audio/future-start-up.mp3" type="audio/mpeg">
         Tu navegador no soporta la reproducción de audio.
     </audio>
 
@@ -59,5 +60,7 @@
     <footer class="footer">
         <p>&copy; 2024 Koreanflix. Todos los derechos reservados.</p>
     </footer>
+
+    <script src="./css/script.js"></script>
 </body>
 </html>
